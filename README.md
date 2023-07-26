@@ -7,7 +7,7 @@ Me, after completed some DL courses on Coursera, I want to dig deeper more about
 
 ## Dataset
 
-The dataset include `True.csv` with the shape is `((21417, 4))` and `Fake.csv`  with the shape is `(23481, 4)`. Cause the size of this dataset is two large to upload on Github so I zipped it. 
+The dataset include `True.csv` with the shape is `(21417, 4)` and `Fake.csv`  with the shape is `(23481, 4)`. Cause the size of this dataset is two large to upload on Github so I zipped it. 
 
 
 ## EDA - Feature Engineering - Modeling 
